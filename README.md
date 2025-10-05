@@ -1,8 +1,6 @@
 # Born2BeRoot
 
-Bu proje, 42 Cursus müfredatının bir parçası olan **Born2BeRoot** çalışmasının dokümantasyonudur.  
-Amacı, Linux ortamında sistem yönetimi, güvenlik ve temel root erişimi konularını uygulamalı olarak öğrenmektir.
-
+Bu proje, 42 Cursus müfredatının bir parçası olan **Born2BeRoot**’ta öğreneceğimiz konuların notlarıdır.
 ---
 
 ## Proje İçeriği
