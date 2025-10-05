@@ -1,6 +1,7 @@
 # Born2BeRoot
 
 Bu proje, 42 Cursus müfredatının bir parçası olan **Born2BeRoot**’ta öğreneceğimiz konuların notlarıdır.
+
 ---
 
 ## Proje İçeriği
